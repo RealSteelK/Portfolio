@@ -2,4 +2,6 @@
 
 Desktop Application Developer | C#/WPF Specialist
 
-Working in Medical Chart Program Company
+#EMR System 
+- C#/WPF desktop application for dental clinics
+- Payment integration & document management
