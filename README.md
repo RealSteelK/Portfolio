@@ -1,3 +1,5 @@
-# Portfolio
+# portfolio
 
-포트폴리오 페이지 생성
+Desktop Application Developer | C#/WPF Specialist
+
+Working in Medical Chart Program Company
